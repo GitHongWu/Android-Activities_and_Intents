@@ -1,6 +1,4 @@
-# CS 478 Development of Mobile Apps - University of Illinois at Chicago(UIC)
-
-# Project 1 Activities and Intents
+# Activities and Intents
 
 ## Project Details:
 

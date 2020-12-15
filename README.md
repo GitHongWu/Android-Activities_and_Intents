@@ -33,12 +33,9 @@ result code was “RESULT_CANCELED”, when the user presses the second button, 
 first activity displays a toast message informing that device user that she/he entered an
 incorrect phone number and includes the number in the toast.
 
-
-## Note that the second activity must return automatically to the first
-
-## activity after a user enters a name and presses the return or done
-
-## key.
+Note that the second activity must return automatically to the first
+activity after a user enters a name and presses the return or done
+key.
 
 ### Implementation Details:
 
